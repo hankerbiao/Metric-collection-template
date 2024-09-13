@@ -1,0 +1,5 @@
+2024-09-07 16:16:37.227 | CRITICAL | MainProcess:14428 | MainThread:19420 | C:\Users\Admin\Desktop\exporters\nt_exporters\utils\Logger2.py:64 | hello world
+2024-09-07 16:25:12.709 | INFO     | __main__:log_info:50 - This is an info message
+2024-09-07 16:25:12.710 | ERROR    | __main__:log_error:53 - This is an error message
+2024-09-07 16:25:44.301 | INFO     | __main__:log_info:50 - This is an info message
+2024-09-07 16:25:44.301 | ERROR    | __main__:log_error:53 - This is an error message
